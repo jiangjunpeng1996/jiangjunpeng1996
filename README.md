@@ -5,4 +5,4 @@
   </tr>
 </table>
 
-![jiangjunpeng1996 github activity graph](https://raw.githubusercontent.com/jiangjunpeng1996/jiangjunpeng1996/output/github-contribution-grid-snake.svg)
+![jiangjunpeng1996 github activity graph](https://raw.githubusercontent.com/junpeng.jiang/jiangjunpeng1996/output/github-contribution-grid-snake.svg)
